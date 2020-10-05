@@ -19,3 +19,8 @@ line-height: 25 px;
     padding-bottom: 50px;
    }
 
+   p {
+        border: solid 5px #929292;
+   }
+
+
